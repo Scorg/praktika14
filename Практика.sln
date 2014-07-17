@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Практика", "Практика\Практика.pyproj", "{A49A1238-F4B2-4C9D-9A71-A46A92313DC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A49A1238-F4B2-4C9D-9A71-A46A92313DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A49A1238-F4B2-4C9D-9A71-A46A92313DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A49A1238-F4B2-4C9D-9A71-A46A92313DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A49A1238-F4B2-4C9D-9A71-A46A92313DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
